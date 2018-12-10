@@ -72,7 +72,9 @@ Be sure your website works at all window widths/sizes.
 Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
 
 Some of the visualizations used in this website are below: 
-![alt text](https://github.com/paulhgraham/html-homework/blob/master/Cloudiness.png)
+
+
+![](https://github.com/paulhgraham/html-homework/blob/master/Cloudiness.png)
 ![](https://github.com/paulhgraham/html-homework/blob/master/Humidity.png)
 ![](https://github.com/paulhgraham/html-homework/blob/master/Max_temp.png)
 ![](https://github.com/paulhgraham/html-homework/blob/master/Wind%20Speed.png)
